@@ -1,3 +1,8 @@
 # NVy-Task
 
-Task Managerer
+Personal task manager
+
+Created by: \
+  -Nikolay Panev \
+  -Venelin Dachev \
+  -Dimitar Todorov 
